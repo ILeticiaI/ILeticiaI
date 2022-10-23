@@ -30,9 +30,9 @@ I study things that I think interesting. Any suggestion?
 
 <div align="center">
 
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/ILeticiaI">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lleticiall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lleticiall&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILeticiaI&layout=compact&langs_count=7&theme=tokyonight"/>
 
 <div>
 <a href ="https://osu.ppy.sh/users/21911539"><img src="https://osu.ppy.sh/wiki/pt-br/Brand_identity_guidelines"></a>
