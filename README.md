@@ -5,10 +5,10 @@
 </h1>
 
  
-                                 ▞▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▚
-                                  I'm just a hardworking student trying to reach my dreams
-                                  I study things that I think interesting. Any suggestion?
-                                 ▚▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▞
+                                   ▞▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▚
+                                    I'm just a hardworking student trying to reach my dreams
+                                    I study things that I think interesting. Any suggestion?
+                                   ▚▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▞
                                           
                                           
                                          
