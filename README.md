@@ -1,11 +1,12 @@
 <h1 align="center">
-<img src="https://www.pinterest.pt/pin/724375921304624711/" width="50">
+<img src="https://media.tenor.com/L4TD4MWFy40AAAAj/kirby.gif" width="50">
   Hello, I'm Leticia 
-<img src="https://www.pinterest.pt/pin/3377768463570289/" width="50">
+<img src="https://media.tenor.com/L4TD4MWFy40AAAAj/kirby.gif" width="50">
 </h1>
 
-I'm just a hardworking student trying to reach my dreams
-I study things that I think interesting. Any suggestion?
+
+                                            I'm just a hardworking student trying to reach my dreams
+                                           I study things that I think interesting. Any suggestion?
 
 
 
@@ -35,4 +36,5 @@ I study things that I think interesting. Any suggestion?
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILeticiaI&layout=compact&langs_count=7&theme=tokyonight"/>
 
 <div>
-<a href ="https://osu.ppy.sh/users/21911539"><img src="https://osu.ppy.sh/wiki/pt-br/Brand_identity_guidelines"></a>
+  
+
