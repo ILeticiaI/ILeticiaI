@@ -6,11 +6,11 @@
     
     
     
-                                           ▞▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▚
-                                             I'm just a hardworking student trying to reach my dreams
-                                            I study things that I think interesting. Any suggestion?
-                                           ▚▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▞
-        
+                                          ▞▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▚
+                                            I'm just a hardworking student trying to reach my dreams
+                                           I study things that I think interesting. Any suggestion?
+                                          ▚▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▞
+ <div align="center">       
                                      
 ⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺
 
@@ -22,8 +22,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ILeticiaI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILeticiaI&layout=compact&langs_count=7&theme=tokyonight"/>
 
-<div>
 
+<div>
+  
+ ⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺
 <h1 align="center">
  <br /> 👻Talk with me!
 
