@@ -52,7 +52,7 @@ Welcome!
  
 <sub>*If you're here for some reason, why don't you tell me? Maybe i can help you!*
   
-<h1 align="center"> <img src="https://cdn.picrew.me/shareImg/org/202210/1170750_keTphDkX.png" width="200">
+<h1 align="center"> <img src="https://cdn.picrew.me/shareImg/org/202308/1904634_bI0bmP8a.png" width="200">
  </h1>
  <h1 align="center">
  ⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻
