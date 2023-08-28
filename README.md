@@ -31,8 +31,8 @@ Welcome!
 <h1 align="center">
  <br />
   
-  <p style="color:#FF91A4">
-    👻Talk with me!</p>
+<font color="#FF91A4">👻Talk with me!</font>
+
 
 <a href="https://instagram.com/leeh_carneir0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
 <a href = "mailto:letici4.carneiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
@@ -44,7 +44,8 @@ Welcome!
 
 <h1 align="center">
 
- <br /> 🐱‍👤Play with me!
+ <br /> 
+ 🐱‍👤Play with me!
  
 <a href ="https://steam.com/naomi_kin"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 <a href ="https://discord.gg/n2cdBC2t"><img src="https://img.shields.io/badge/%3CKin's%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
