@@ -31,7 +31,7 @@ Welcome!
 <h1 align="center">
  <br />
   
-<p style="text-color:pink">👻Talk with me!</p>
+<p style="text-color:#'FF91A4'">👻Talk with me!</p>
 
 
 <a href="https://instagram.com/leeh_carneir0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
