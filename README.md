@@ -11,13 +11,12 @@ Welcome!
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lecarneiro&show_icons=true&count_private=true&hide_border=true&title_color=FF91A4&icon_color=FF91A4&text_color=c9d1d9&bg_color=0d1117" alt="Letícia Carneiro github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lehcarneiro&layout=compact&hide_border=true&title_color=FF91A4&text_color=FF91A4&bg_color=0d1117" />
 </div>
-![Snake animation](https://github.com/LehCarneiro/blob/output/github-contribution-grid-snake.svg)
 
 
  
                                    ▞▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▚
-                                  I'm just a hardworking student trying to reach my dreams
-                                  I study things that I think interesting. Any suggestion?
+<img src="https://i.gifer.com/origin/06/068c8f36ce4e0216bcc86ccc2e2401a0_w200.gif" width="100">
+
                                    ▚▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▞
                                           
                                           
@@ -51,7 +50,6 @@ Welcome!
 <a href ="https://steam.com/naomi_kin"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 <a href ="https://discord.gg/n2cdBC2t"><img src="https://img.shields.io/badge/%3CKin's%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 
-<img src="https://i.gifer.com/origin/06/068c8f36ce4e0216bcc86ccc2e2401a0_w200.gif" width="100">
  
 <h1 align="center">        
  
@@ -61,3 +59,4 @@ Welcome!
  </h1>
  <h1 align="center">
  ⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻
+<img src="https://i.gifer.com/origin/06/068c8f36ce4e0216bcc86ccc2e2401a0_w200.gif" width="100">
