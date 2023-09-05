@@ -11,6 +11,7 @@ Welcome!
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lecarneiro&show_icons=true&count_private=true&hide_border=true&title_color=FF91A4&icon_color=FF91A4&text_color=c9d1d9&bg_color=0d1117" alt="Letícia Carneiro github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lehcarneiro&layout=compact&hide_border=true&title_color=FF91A4&text_color=FF91A4&bg_color=0d1117" />
 </div>
+![Snake animation](https://github.com/LehCarneiro/blob/output/github-contribution-grid-snake.svg)
 
 
  
