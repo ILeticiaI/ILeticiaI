@@ -13,10 +13,7 @@ Welcome!
   <img width="15%" height="75px" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/csharp/csharp-original.svg">
 
 </div>
-
-
-
-  
+ 
 <h1 align="center">
  <br />
   
@@ -47,5 +44,4 @@ Welcome!
 <h1 align="center"> <img src="https://cdn.picrew.me/shareImg/org/202308/1904634_bI0bmP8a.png" width="200">
  </h1>
  <h1 align="center">
- ⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻
 <img src="https://i.gifer.com/origin/06/068c8f36ce4e0216bcc86ccc2e2401a0_w200.gif" width="100">
